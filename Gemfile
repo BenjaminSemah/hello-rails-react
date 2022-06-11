@@ -74,5 +74,5 @@ end
 gem 'rubocop', '>= 1.0', '< 2.0'
 
 # Webpack and React
-gem 'webpacker'
 gem 'react-rails'
+gem 'webpacker'
