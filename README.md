@@ -7,7 +7,6 @@
 - Ruby
 - Ruby on rails
 - React
-- 💓
 
 # Get Started
 To get a local copy up and running follow these simple steps.
@@ -25,7 +24,6 @@ $ rails s
 
 👤 **Benjamin Semah**
 
-- GitHub: [Benjamin Semah](https://github.com/BenjaminSemah)
 - Twitter: [Benjamin Semah](https://twitter.com/BenjaminSemah)
 - LinkedIn: [Benjamin Semah](https://www.linkedin.com/in/benjaminsemah/)
 
