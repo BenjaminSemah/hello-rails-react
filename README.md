@@ -1,24 +1,40 @@
-# README
+![](https://img.shields.io/badge/Hello-App-blue)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello-rails-react
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ruby on rails
+- React
+- 💓
 
-* System dependencies
+# Get Started
+To get a local copy up and running follow these simple steps.
 
-* Configuration
+```bash
+$ git clone https://github.com/benjaminsemah/hello-rails-react
+$ cd hello-rails-react
+$ bundle install
+$ rake db:create
+$ rake db:migrate
+$ rails s
+```
 
-* Database creation
+## Author
 
-* Database initialization
+👤 **Benjamin Semah**
 
-* How to run the test suite
+- GitHub: [Benjamin Semah](https://github.com/BenjaminSemah)
+- Twitter: [Benjamin Semah](https://twitter.com/BenjaminSemah)
+- LinkedIn: [Benjamin Semah](https://www.linkedin.com/in/benjaminsemah/)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
