@@ -1,4 +1,3 @@
-# rubocop:disable Layout/EndOfLine
 class ApplicationJob < ActiveJob::Base
   # Automatically retry jobs that encountered a deadlock
   # retry_on ActiveRecord::Deadlocked
@@ -7,4 +6,3 @@ class ApplicationJob < ActiveJob::Base
   # discard_on ActiveJob::DeserializationError
   # Application Job
 end
-# rubocop:enable Layout/EndOfLine
