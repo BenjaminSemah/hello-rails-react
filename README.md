@@ -24,6 +24,7 @@ $ rails s
 
 👤 **Benjamin Semah**
 
+- Github: [Benjamin Semah](https://github.com/BenjaminSemah)
 - Twitter: [Benjamin Semah](https://twitter.com/BenjaminSemah)
 - LinkedIn: [Benjamin Semah](https://www.linkedin.com/in/benjaminsemah/)
 
